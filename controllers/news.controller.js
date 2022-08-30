@@ -34,7 +34,7 @@ exports.updateExistingNews = async (req, res) => {
     }
     const update_news = await News.findOneAndUpdate(
       {
-        _id: req.params.id,
+        useerId: req.params.id,
       },
       { title, body_of_news },
       { new: true }
