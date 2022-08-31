@@ -30,7 +30,7 @@ exports.updateExistingNews = async (req, res) => {
 
     const user = await User.findById({ _id: id });
     if (!user) {
-      return res.status(200).json({ message: "user does not exist" });
+      return res.status(404).json({ message: "user does not exist" });
     }
     const update_news = await News.findOneAndUpdate(
       {
