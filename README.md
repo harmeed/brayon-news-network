@@ -19,7 +19,9 @@
 - update
 - delete
 
-[postman Doc](https://documenter.getpostman.com/view/22271618/VUxLwTu5)
+[postman Doc local host](https://documenter.getpostman.com/view/22271618/VUxLwTu5)
+=======
+[heroku link](https://brayon.herokuapp.com/)
 =======
 
 >>>>>>> e96c75672657654199ff94e1382f9ebfc8d1872f
