@@ -25,5 +25,6 @@
 =======
 [heroku link](https://brayon.herokuapp.com/)
 =======
+[article link](https://medium.com/@hammedolalekan60/setting-up-mongodb-using-mongose-in-nodejs-b817686fbeca)
 
 >>>>>>> e96c75672657654199ff94e1382f9ebfc8d1872f
