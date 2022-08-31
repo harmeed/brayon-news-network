@@ -21,6 +21,8 @@
 
 [postman Doc local host](https://documenter.getpostman.com/view/22271618/VUxLwTu5)
 =======
+[heroku postman link](https://documenter.getpostman.com/view/22271618/VUxNSU1L)
+=======
 [heroku link](https://brayon.herokuapp.com/)
 =======
 
